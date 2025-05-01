@@ -65,7 +65,7 @@
 ---
 
 
-### 📢 Broadcasting
+### 📢 Broad Casting
 
 <p>
 <a href="https://www.youtube.com/@s.subeetshagan" target="_blank">
