@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="Banner.png" alt="banner" style="width:100%; border-radius:10px;" />
 
-<h1 align="center">Hi there, I'm <span style="color:#f39c12;">S.Subeetshagan</span>!</h1>
+<h1 align="center">Hi 👋 there, I'm <span style="color:#f39c12;">S.Subeetshagan</span>!</h1>
 
 <p align="center">
   <b>Founder of Subee Industries</b><br>
@@ -63,6 +63,29 @@
 
 
 ---
+
+
+### 📢 Broadcasting
+
+<p>
+<a href="https://www.youtube.com/@s.subeetshagan" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-SUBEE_OFFICIAL_26-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/subeeofficial26/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-S.Subeetshagan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💼Freelancer in
+
+<p>
+  <a href="https://www.fiverr.com/subee_official_26" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Fiverr-S.Subeetshagan-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</p>
+  ---
 
 ### ✨ Featured Projects
 
