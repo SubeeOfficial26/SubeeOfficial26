@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://github.com/SubeeOfficial26" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/SUBEE-OFFICIAL-26" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
@@ -85,6 +85,8 @@
     <img src="https://img.shields.io/badge/Fiverr-S.Subeetshagan-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 </p>
+ 
+ 
   ---
 
 ### ✨ Featured Projects
